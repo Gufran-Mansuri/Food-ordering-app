@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29619a57.chunk.css",
+    "main.js": "/static/js/main.a5feb29a.chunk.js",
+    "main.js.map": "/static/js/main.a5feb29a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.493c7bed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.493c7bed.js.map",
+    "static/css/2.13d9f804.chunk.css": "/static/css/2.13d9f804.chunk.css",
+    "static/js/2.05c61c8c.chunk.js": "/static/js/2.05c61c8c.chunk.js",
+    "static/js/2.05c61c8c.chunk.js.map": "/static/js/2.05c61c8c.chunk.js.map",
+    "static/js/3.494d021e.chunk.js": "/static/js/3.494d021e.chunk.js",
+    "static/js/3.494d021e.chunk.js.map": "/static/js/3.494d021e.chunk.js.map",
+    "static/css/4.4b492771.chunk.css": "/static/css/4.4b492771.chunk.css",
+    "static/js/4.62ff4846.chunk.js": "/static/js/4.62ff4846.chunk.js",
+    "static/js/4.62ff4846.chunk.js.map": "/static/js/4.62ff4846.chunk.js.map",
+    "static/css/5.37e1312c.chunk.css": "/static/css/5.37e1312c.chunk.css",
+    "static/js/5.fc8738cc.chunk.js": "/static/js/5.fc8738cc.chunk.js",
+    "static/js/5.fc8738cc.chunk.js.map": "/static/js/5.fc8738cc.chunk.js.map",
+    "static/js/6.56e765f2.chunk.js": "/static/js/6.56e765f2.chunk.js",
+    "static/js/6.56e765f2.chunk.js.map": "/static/js/6.56e765f2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.13d9f804.chunk.css.map": "/static/css/2.13d9f804.chunk.css.map",
+    "static/css/4.4b492771.chunk.css.map": "/static/css/4.4b492771.chunk.css.map",
+    "static/css/5.37e1312c.chunk.css.map": "/static/css/5.37e1312c.chunk.css.map",
+    "static/css/main.29619a57.chunk.css.map": "/static/css/main.29619a57.chunk.css.map",
+    "static/js/3.494d021e.chunk.js.LICENSE.txt": "/static/js/3.494d021e.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.493c7bed.js",
+    "static/js/3.494d021e.chunk.js",
+    "static/css/main.29619a57.chunk.css",
+    "static/js/main.a5feb29a.chunk.js"
+  ]
+}
